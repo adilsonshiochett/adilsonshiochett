@@ -4,4 +4,4 @@ Tenho um pouco de experiência em Html,Css .
 Atualmente trabalho como Impermeabilizador mais espero fazer essa transiçâo o mais rapido possível.
 
 
-  - <img> src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo" />
+  - <img> src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
